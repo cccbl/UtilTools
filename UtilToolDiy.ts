@@ -241,16 +241,14 @@ export default class UtilToolDiy {
 }
 
 // =-=-=-=-=-=-=-=-=- 本地存储 =-=-==-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=
-import { GameDataSet } from "../../Script/Common/datas/DataMgr"
 export class StorageMgr {
     // 根据版本号，更新玩家存储的数据
-    private static VERSION = GameDataSet.VERSION;
+    private static VERSION = "1.0.0";
 
     static enum = {
         test: "test_idle",
         StorageJson: {
             // localPath: "StorageJson_localPath_",
-            roomConfig: "StorageJson_roomConfig_",
         }
     }
     /** 根据名字清除本地存储 */
