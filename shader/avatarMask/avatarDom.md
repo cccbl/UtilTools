@@ -1,7 +1,7 @@
 # Cocos Creator 圆形头像Shader使用
 
 
->如果你有更好的见解或者建议，欢迎您的提出。
+>如果您有更好的见解或者建议，欢迎您的提出。
 ---
 
 ## 目录
@@ -9,6 +9,7 @@
 + [创建Meterial材质](#创建Meterial材质)
 + [在对应图片节点使用Meterial](#在对应图片节点使用Meterial)
 + [补充事项](#补充事项)
++ [源码地址](#源码地址)
 
 <br>
 <br>
@@ -162,4 +163,6 @@ CCProgram fs %{
 
 <br>
 
+
+### 源码地址
 _**源码地址:**_: <a href="./AvatarShader" target="_blank">AvatarShader</a>
