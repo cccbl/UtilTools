@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.Material",
+  "_name": "AvatarMaterial",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "3cb74203-0125-457a-8aa6-3e608587a57d"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_ALPHA_TEST": true,
+        "INPUT_IS_GAMMA": true
+      },
+      "props": {
+        "edge": 0.5
+      }
+    }
+  }
+}

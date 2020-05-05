@@ -158,3 +158,8 @@ CCProgram fs %{
 
 ### 最终运行效果
 <div align="center"> <img src="./dom-img/screen4.png"><br> 祝你一次点亮~<br> <br></div>
+
+
+<br>
+
+_**源码地址:**_: <a href="./AvatarShader" target="_blank">AvatarShader</a>
